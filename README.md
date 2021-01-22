@@ -11,8 +11,10 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 * Any Links you used as reference
 
 ### Reflections and Comments
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
+* We shouldn't have all been in FUBAR. 
+* We should have each had our own sections.
+* We utilized the git pull, status and pull requests to discern whether we were ahead or behind the master.
+* Strong communication within the team was an important part of resolving the conflicts.
 
 
 # Problem Domain
